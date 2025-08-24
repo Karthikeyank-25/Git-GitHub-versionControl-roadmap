@@ -1,0 +1,25 @@
+Git Commands :
+        Git is a version control system (VCS).
+            - It helps developers track changes in their code, collaborate with others, and manage different versions of a project.
+            - Think of Git like a time machine for your code — you can go back to any previous version whenever you want.
+
+1. Initiate Git in Repository :
+        ' git init '
+
+2. Add file in Git :
+        ' git add "filename.txt" '
+
+3. Records file in Git :
+        ' git commit -m "filename.txt" '
+
+4. Back to past commit in file :
+        ' git checkout "filename.txt" '
+
+5. Check status of file directory :
+        ' git status '
+
+6. Check history of commits :
+        ' git log '
+
+7. Track files in Git :
+        ' git ls-files '
