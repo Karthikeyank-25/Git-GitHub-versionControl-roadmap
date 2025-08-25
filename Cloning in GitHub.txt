@@ -1,0 +1,14 @@
+Cloning in GitHub :
+        Cloning means creating a local copy of a remote Git repository (from GitHub, GitLab, Bitbucket, or any server).
+        It downloads:
+            - All the files
+            - All commits & branches
+            - Full history of the project
+        So your local repo is a complete copy of the remote one.
+
+Commands :
+
+Clone the GitHub repository :
+       ' git clone "repository url" '
+
+
