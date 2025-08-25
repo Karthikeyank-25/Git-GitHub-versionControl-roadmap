@@ -1,0 +1,21 @@
+Remote Repository :
+           - A remote repository is a version of your project that is hosted on the internet or a network (e.g., GitHub, GitLab, Bitbucket).
+           - It acts as a shared repo that multiple people can collaborate on.
+           - Your local repo lives on your computer, while the remote repo lives on a server.
+
+Commands :
+
+1. Add Remote Repossitory :
+        ' git remote add origin <repo_url> '
+
+2. Remove Remote Repository :
+        ' git remote remove origin '
+
+3. Check remotes Repository :
+        ' git remote -v '
+
+4. Push to remote Repository :
+        ' git push origin main '
+
+5. Pull from remote :
+        ' git pull origin main '
