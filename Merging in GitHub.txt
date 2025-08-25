@@ -1,0 +1,14 @@
+Merging in GitHub :
+            Merging is the process of combining two branches into one.
+            Usually, you finish a feature/bug fix on a branch and then merge it back into main.
+            After merging, the target branch contains:
+                - Its own commits
+                - The commits from the branch being merged
+
+Steps for Merging :
+
+1. Switch to the branch you want to merge into (e.g., main):
+        ' git checkout main '
+
+2. Run merge command :
+        ' git merge "merging branch name" '
