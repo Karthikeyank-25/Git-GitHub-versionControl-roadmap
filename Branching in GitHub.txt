@@ -1,0 +1,21 @@
+Branching in GitHub :
+                - A branch in Git is like a separate timeline of development.
+                - By default, when you create a repository, Git makes one branch → usually called main (or master in older repos).
+                - When you create a new branch, you can make changes without affecting the main branch until you merge them.
+
+Commands :
+1. View branches :
+        ' git branch '
+
+2. Create a new branch :
+        ' git branch "branch name" '
+
+3. Switch to a branch :
+        ' git checkout "switching branch name" '
+
+4. Create + switch in one step :
+        ' git checkout -b "creating and switching branch name" '
+
+5. Delete a branch :
+        ' git branch -d "Deleting branch name" '     # delete safely (only if merged)
+        ' git branch -D "Deleting branch name" '     # force delete
