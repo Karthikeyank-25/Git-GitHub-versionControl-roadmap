@@ -1,0 +1,18 @@
+GitHub :
+            - GitHub is a cloud-based platform built on top of Git.
+            - It is a version control system, that provides developers with a web-based environment to store, manage, and collaborate on code projects.
+
+1. Add GitHub with Git :
+        ' git remote add origin "repository link" '
+
+2. Uploading files in GtHub :
+        ' git push origin main '
+
+3. Branch name changing in GitHub :
+        ' git branch -M main '      [default branch is 'main']
+
+4. Fetch files from GitHub repository [overall branch] :
+        ' git pull '
+
+5. Fetch files from GitHub repository [from specific branch]:
+        ' git pull origin "branch name" '
