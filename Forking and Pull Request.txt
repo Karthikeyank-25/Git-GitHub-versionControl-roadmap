@@ -1,0 +1,18 @@
+Forking :
+            A fork is your own personal copy of someone else’s repository (repo).
+            You can freely experiment, make changes, or build features without affecting the original repo.
+
+Command not needed on Git — it’s done via GitHub’s web UI:
+            - Go to a repo → click Fork (top-right).
+            - It creates a copy under your account.
+            - You git clone your fork to your computer and work on it.
+
+Pull Request :
+            A pull request is a way to propose changes from your fork (or a branch) back into the original repo.
+            It lets maintainers review your changes before merging.
+
+Steps :
+            - Fork the repo (if you don’t have write access).
+            - Clone your fork → make a new branch → commit changes.
+            - Go to your fork on GitHub → click New Pull Request.
+            - Submit the PR → maintainers review and merge.
